@@ -17,6 +17,8 @@ import com.android.diyview.R;
 /**
  * Created by jingqiang on 15/8/7.
  */
+
+
 public class pullToRefresh extends ListView{
     private static final String TAG = "pullToRefresh";
     private View view;
