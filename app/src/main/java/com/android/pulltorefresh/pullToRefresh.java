@@ -38,6 +38,7 @@ public class pullToRefresh extends ListView{
         this.asyncTask=asyncTask;
     }
 
+
     public interface pulltoRefreshAsyncTask{
         void preExcute();
         void doInBackground();
